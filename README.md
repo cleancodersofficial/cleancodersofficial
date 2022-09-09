@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on flutter , Android , nodeJs ,mongodb<br>I am currently learning scrum <br>
+I am working on flutter , Android , Swift , nodeJs ,mongodb
 
 
 ## 🌐 Socials:
